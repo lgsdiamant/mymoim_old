@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "511933512074",
+    "firebase_url": "https://mymoim-beb90-default-rtdb.firebaseio.com",
+    "project_id": "mymoim-beb90",
+    "storage_bucket": "mymoim-beb90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511933512074:android:b071b96b861ed026a03073",
+        "android_client_info": {
+          "package_name": "com.lgsdiamant.mymoim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511933512074-r0ghmoa8g35co4odhqs07q4ppg78q992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrG-lVUoPlktSnJ52xxdRb4Rnc526cVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511933512074-r0ghmoa8g35co4odhqs07q4ppg78q992.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511933512074-mree8f8bav0ptl82da7rtnantp71dem0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lgsdiamant.mymoim"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511933512074:android:d2f218ff7f611ce0a03073",
+        "android_client_info": {
+          "package_name": "com.lgsdiamant.mymoim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511933512074-kg787vclta40qmp8sa8adakvtkbb5kf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lgsdiamant.mymoim",
+            "certificate_hash": "2ce2903bf2190816eee12049ebff866fa543aacb"
+          }
+        },
+        {
+          "client_id": "511933512074-voijklna2bafpbllp0jaech5khc7sr06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lgsdiamant.mymoim",
+            "certificate_hash": "d23ab255ae69b294bae0a757dfb529c261082db4"
+          }
+        },
+        {
+          "client_id": "511933512074-r0ghmoa8g35co4odhqs07q4ppg78q992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrG-lVUoPlktSnJ52xxdRb4Rnc526cVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511933512074-r0ghmoa8g35co4odhqs07q4ppg78q992.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511933512074-mree8f8bav0ptl82da7rtnantp71dem0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lgsdiamant.mymoim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
